@@ -1,0 +1,66 @@
+.main {
+    background-color: rgb(4, 196, 255);
+    margin-top: 10px;
+}
+
+.fa {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 80px;
+    margin-left: 40px;
+    margin-right: 30px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 120px;
+    border-style: solid;
+    border-width: thin;
+}
+
+.fa:hover {
+    border-style: dotted;
+}
+
+.name12 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.card {
+    margin: 0 auto;
+    /* Added */
+    float: none;
+    /* Added */
+    margin-bottom: 10px;
+    /* Added */
+}
+
+.line {
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.trend {
+    margin-top: 20px;
+}
+
+.card-text {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    height: 200;
+}
+
+.card-line {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}

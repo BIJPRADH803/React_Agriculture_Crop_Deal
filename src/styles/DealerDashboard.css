@@ -1,0 +1,11 @@
+.dealerdashbg{
+
+background-image:url("https://us.123rf.com/450wm/zenithshot/zenithshot2002/zenithshot200200302/140861824-green-wheat-vegetative-stage-field-with-barley-wallpaper-background.jpg?ver=6");
+background-repeat: no-repeat;
+background-attachment: fixed;  
+background-size:cover; 
+ width: 100%;
+ height: 800px;
+ object-fit: fixed
+
+}

@@ -1,0 +1,10 @@
+.farmerdashbg{
+    background-image:url("https://image.shutterstock.com/image-photo/smiling-farmer-writing-on-document-260nw-1622457220.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size:cover; 
+     width: 100%;
+     height: 800px;
+     object-fit: fixed
+
+}

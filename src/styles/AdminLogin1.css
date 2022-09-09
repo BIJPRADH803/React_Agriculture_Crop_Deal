@@ -1,0 +1,82 @@
+.title1{
+    
+    border-radius: 0.9rem;
+    width: 50%;
+    margin-left: 50%;
+    padding-bottom: 100px;
+
+}
+
+.loginForm{
+    padding-top: 20px;
+    padding-left: 5px;
+    background-color: rgb(42, 18, 160, 0.1);
+    border-radius: 0.9rem;
+    width: 30%;
+    margin-left: 70%;
+    box-shadow: 13px 12px 13px 12px rgba(29, 27, 27, 0.3);
+}
+.name{
+    padding: 20px;
+    width: 5cm;
+    text-align: center;
+    margin-left: 30%;}
+
+.Btn{
+    text-transform: uppercase;
+    font-size: 15px;
+    border-radius: 20px;
+    color: rgb(201, 15, 189);
+    padding: 9px 40px;
+    background: linear-gradient(to right,yellow,rgb(149, 24, 222));
+    box-shadow: rgba(0,0,0,0.3)0px 19px 38px,rgba(0, 0, 0, 0.22)0px 15px 12px;
+    margin-left: 35%;
+    text-decoration: none;
+    margin-bottom: 1cm;
+}
+.userbg {
+    /* The image used */
+    background-image: url('');
+    /* Control the height of the image */
+    min-height: 700px;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .adminbg {
+    /* The image used */
+    background-image: url('https://otbsalessolutions.com/wp-content/uploads/2021/08/Farmer-standing-in-field.jpg');
+    /* Control the height of the image */
+    /* min-height: 1000px; */
+    /* Center and scale the image nicely */
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size:cover; 
+     width: 100%;
+     height: 800px;
+     object-fit: fixed
+
+  }
+  .wbg {
+    /* The image used */
+    background-image: url('');
+    /* Control the height of the image */
+    min-height: 30px;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .was{
+    background-image: url('');
+  }
+  .register{
+    background-image: url('');
+  }
